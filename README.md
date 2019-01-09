@@ -1,4 +1,7 @@
-##django
+## django (now django-express)
+
+***Note: The Django Software Foundation, holder of "Django" as US registered trademark, does not produce or endorse this package.  To avoid confusion, this package has been renamed `django-express`.  All users of `django` version 0.5.x should update their project dependencies.***
+
 [![NPM version][npm-image]][npm-url] [![Downloads][downloads-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Build status][appveyor-image]][appveyor-url] [![Dependency Status][david-dm-image]][david-dm-url] [![Dev Dependency Status][david-dm-dev-image]][david-dm-url] [![Build Status][codeship-image]][codeship-url] [![Coverage Status][coveralls-image]][coveralls-url] [![Build with Grunt][grunt-image]][grunt-url]
 
 A wrapper of [Django][django-url]'s template engine for _[Express.js][express-url]_.It's designed only for development on web front-end side.**DO NOT** use it for production.
